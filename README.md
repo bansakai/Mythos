@@ -2,7 +2,7 @@
 Mythos is a personal reimagining of the original [Mythic](https://github.com/darklinkpower/Mythic) theme for Playnite Desktop Mode.
 
 ## Tips and Donations
-Support the original creator:
+Support the original creator, Darklinkpower:
 
 <a href='https://ko-fi.com/darklinkpower' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
