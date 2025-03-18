@@ -7,12 +7,7 @@ Support the original creator:
 <a href='https://ko-fi.com/darklinkpower' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## Theme Summary
-- Use Epic Games Launcher as inspiration to create a polished Playnite UI.
-- Achieve a more modern and clean design with the chosen pallete and things like rounded corners in certain elements like the windows, borders, buttons and controls.
-- Improve the user experience with small animations in certain parts.
-- Change the aesthetic without affecting functionality.
-- Polish certain parts of the UI to give a better user experience.
-- Achieve features that are not available by default on Playnite via community extensions
+A reimagining of the original Mythic theme, shaped by my own design preferences. While staying true to its modern foundation, Mythos offers a cleaner, more refined UI with subtle tweaks that enhance its elegance. With macOS inspired aesthetics, it delivers a streamlined, polished look while honoring the essence of the original.
 
 ## Installation
 Option A: Click the `Download` button in the [addon database entry here](https://playnite.link/addons.html#Mythic_e231056c-4fa7-49d8-ad2b-0a6f1c589eb8) to start the install process.
