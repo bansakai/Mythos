@@ -1,5 +1,5 @@
 # Mythos
-Mythos is a personal reimagining of the original [Mythic](https://github.com/darklinkpower/Mythic). theme for Playnite Desktop Mode.
+Mythos is a personal reimagining of the original [Mythic](https://github.com/darklinkpower/Mythic) theme for Playnite Desktop Mode.
 
 ## Tips and donations
 Support the original creator:
