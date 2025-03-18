@@ -1,12 +1,12 @@
 # Mythos
 Mythos is a personal reimagining of the original [Mythic](https://github.com/darklinkpower/Mythic) theme for Playnite Desktop Mode.
 
-## Tips and donations
+## Tips and Donations
 Support the original creator:
 
 <a href='https://ko-fi.com/darklinkpower' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-## Theme goals
+## Theme Summary
 - Use Epic Games Launcher as inspiration to create a polished Playnite UI.
 - Achieve a more modern and clean design with the chosen pallete and things like rounded corners in certain elements like the windows, borders, buttons and controls.
 - Improve the user experience with small animations in certain parts.
@@ -21,7 +21,7 @@ Option B: Download the latest packaged `pthm` theme file from the [Releases page
 
 Option C: Download from the Addons browser in Playnite.
 
-## Extensions support
+## Recommended Extensions
 The theme provides extensive support for a wide range of available Playnite extensions, enhancing its functionality even further.
 
 - **Achievements:** [SuccessStory](https://playnite.link/addons.html#playnite-successstory-plugin) extension.
@@ -38,8 +38,6 @@ The theme provides extensive support for a wide range of available Playnite exte
 - **Steam players online counter:** [Steam News and Players Viewer](https://playnite.link/addons.html#NewsViewer_15e03ffe-90f6-4e8e-bd4d-94514777481d) extension.
 - **Theme customization options:** Customization of certain aspects of the theme can be done via custom integration of the [ThemeModifier](https://playnite.link/addons.html#playnite-thememodifier-plugin) extension.
 - **Videos:** [Extra Metadata Loader](https://playnite.link/addons.html#ExtraMetadataLoader_705fdbca-e1fc-4004-b839-1d040b8b4429) extension.
-
-...and more...
 
 ## Screenshots
 
